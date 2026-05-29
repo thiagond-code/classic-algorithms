@@ -1,2 +1,2 @@
 # classic-algorithms
-Este é um repositório contendo implementações de algoritmos clássicos em diversas linguagens, como algoritmos de busca, ordenação, grafos, programação dinâmica e outros. O objetivo é fornecer uma base de estudos e referência para estudantes e profissionais que buscam entender e aplicar esses algoritmos de forma prática.
+This is a repository containing implementations of classic algorithms in various programming languages, including search and sorting algorithms, graph algorithms, dynamic programming and more. Its purpose is to provide a solid study & reference resource for students & professionals seeking to understand & apply these algorithms in a practical way.
